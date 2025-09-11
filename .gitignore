@@ -42,6 +42,26 @@ vignettes/*.pdf
 # pkgdown site
 docs/
 
+# Shiny app outputs (generated)
+outputs/
+!outputs/.gitkeep
+
+# Local data (do not track)
+DATA_BODRUM.xlsx
+DATA_MILAS.xlsx
+data/
+!data/README.md
+
+# RStudio/renv
+.Rproj.user/
+*.Rproj
+.Rhistory
+.RData
+.Ruserdata
+renv/library/
+renv/staging/
+
+
 # translation temp files
 po/*~
 
