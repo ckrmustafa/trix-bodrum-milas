@@ -6,6 +6,9 @@ Interactive R/Shiny app for TRIX analysis in Bodrum & Milas:
 - Dataset-level trends
 - ITS (break at 2020) and DiD
 
+## Citation 
+https://doi.org/10.5281/zenodo.17102904
+
 ## How to run
 ```r
 install.packages(c("shiny","shinythemes","shinycssloaders","DT","readxl","dplyr",
